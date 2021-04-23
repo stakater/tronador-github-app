@@ -1,0 +1,15 @@
+
+apiVersion: tronador.stakater.com/v1alpha1
+kind: TestEnvConfig
+metadata:
+  name: test-cr
+spec:
+  target_branch: master
+  
+  application:
+    chart_path: .helm/chart/frontend
+    chart_vars_repo_path: stakater/helm-charts@master:releases/frontend/feature.yaml
+    value_overrides:
+      - "some.value=foobar"
+    
+  

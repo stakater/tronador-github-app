@@ -1,7 +1,5 @@
 # Tronador Github App
 
-A GitHub App built with [Probot](https://github.com/probot/probot) that Tronador Github App built with Probot
-
 ## Setup
 
 ```sh

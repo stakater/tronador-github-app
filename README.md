@@ -1,6 +1,6 @@
-# tronador
+# Tronador Github App
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) that Tronador Github App built with Probot
+A GitHub App built with [Probot](https://github.com/probot/probot) that Tronador Github App built with Probot
 
 ## Setup
 
@@ -30,4 +30,4 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
-[ISC](LICENSE) © 2021 cuttingedge1109 <jose@stakater.com>
+[ISC](LICENSE) © 2021 Stakater

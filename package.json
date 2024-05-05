@@ -16,7 +16,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@kubernetes/client-node": "^0.14.3",
+    "@kubernetes/client-node": "^0.21.0",
     "js-yaml": "^4.1.0",
     "nunjucks": "^3.2.3",
     "probot": "^11.0.1"
